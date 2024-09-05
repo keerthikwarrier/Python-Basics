@@ -1,5 +1,5 @@
 # Python-Basics
-This repository has all the hands-on practice i have done to cover basics in python
+This repository has all the hands-on i have done to cover basics in python
 
 Each Python File has the practical knowledge for their respective topics 
 
