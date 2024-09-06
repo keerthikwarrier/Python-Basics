@@ -6,4 +6,5 @@ Each Python File has the practical knowledge for their respective topics
 Basics of Python that are included are:
 1. Variables and Types - The Variables file has all about the variable assignment, Basic Data Types, and Data Types only provided in Python, Arithmetic operations, and String Operations using these variables. Includes 2 Exercises covering the topic.
 2. Numbers - This Numbers file has all three 3 types of numbers, Arithmetic operators on numbers, Type Conversion, and built-in number functions. Includes 2 Exercises covering the topic.
-3. If-else Statements - This file has all the types of if statements from the basic if, if else, nested if, and if-elif-else statements with examples.  Includes 2 Exercises covering the topic.
+3. Strings- This Strings file has all the ways of representing the string(',",''',\), string operations, In-built functions with strings with examples. Includes 1 Exercise covering the topic.
+4. If-else Statements - This file has all the types of if statements from the basic if, if else, nested if, and if-elif-else statements with examples.  Includes 2 Exercises covering the topic.
