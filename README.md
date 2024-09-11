@@ -11,3 +11,4 @@ Basics of Python that are included are:
 5. Loops statements - This file explains the different loop statements such as While, For, nested loops with their examples. Includes 8 Exercises covering different loops.
 6. Arrays and Lists - This file explains Arrays and Lists in detail with their operations and built-in functions with examples for each of them - Includes 1 Exercise for each concept.
 7. Dictionaries and Sets - This file explains Dictionaries and Sets in detail with their operations and built-in methods with examples for each of them
+8. Tuples- This file explains tuples in detail with their operations and built-in functions, Difference between tuples and lists with examples. Includes 1 Exercise to show tuples.
