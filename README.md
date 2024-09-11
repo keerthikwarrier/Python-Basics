@@ -12,3 +12,4 @@ Basics of Python that are included are:
 6. Arrays and Lists - This file explains Arrays and Lists in detail with their operations and built-in functions with examples for each of them - Includes 1 Exercise for each concept.
 7. Dictionaries and Sets - This file explains Dictionaries and Sets in detail with their operations and built-in methods with examples for each of them
 8. Tuples- This file explains tuples in detail with their operations and built-in functions, Difference between tuples and lists with examples. Includes 1 Exercise to show tuples.
+9. Slicing - This file explains different ways of slicing a list, tuple and string with examples.  Includes 1 Exercise to show slicing.
