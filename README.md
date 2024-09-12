@@ -13,3 +13,4 @@ Basics of Python that are included are:
 7. Dictionaries and Sets - This file explains Dictionaries and Sets in detail with their operations and built-in methods with examples for each of them
 8. Tuples- This file explains tuples in detail with their operations and built-in functions, Difference between tuples and lists with examples. Includes 1 Exercise to show tuples.
 9. Slicing - This file explains different ways of slicing a list, tuple and string with examples.  Includes 1 Exercise to show slicing.
+10. Regular Expressions(RegEX) - This file explains how a specific pattern is represented with characters what they mean with Examples
