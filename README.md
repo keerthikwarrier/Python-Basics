@@ -16,3 +16,4 @@ Basics of Python that are included are:
 10. Regular Expressions(RegEX) - This file explains how a specific pattern is represented with characters and what they mean with Examples.
 11. Python Functions - This file shows the different ways of defining and using the functions with many examples.
 12. OOPs with Classes and Objects - This file explains Classes and object and OOPs concepts with examples.
+13. Python Threads- This file explains the different ways of creating threads, the purpose of threads and Multithreading with examples. 
